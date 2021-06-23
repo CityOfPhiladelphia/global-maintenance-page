@@ -268,7 +268,7 @@ body, html {
 #main {
   display: table;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 960px;
   height: 100%;
 }
 
@@ -314,4 +314,9 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   letter-spacing: .03rem;
   margin: .92857rem 0;
+}
+
+a {
+  color: #0f4d90;
+  text-decoration: underline;
 }
